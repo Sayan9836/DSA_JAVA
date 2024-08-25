@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch M1",
+            "request": "launch",
+            "mainClass": "M1",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M10",
+            "request": "launch",
+            "mainClass": "M10",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M11",
+            "request": "launch",
+            "mainClass": "M11",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M12",
+            "request": "launch",
+            "mainClass": "M12",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M13",
+            "request": "launch",
+            "mainClass": "M13",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M14",
+            "request": "launch",
+            "mainClass": "M14",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M15",
+            "request": "launch",
+            "mainClass": "M15",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M16",
+            "request": "launch",
+            "mainClass": "M16",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M17",
+            "request": "launch",
+            "mainClass": "M17",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M18",
+            "request": "launch",
+            "mainClass": "M18",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M2",
+            "request": "launch",
+            "mainClass": "M2",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M3",
+            "request": "launch",
+            "mainClass": "M3",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M4",
+            "request": "launch",
+            "mainClass": "M4",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M5",
+            "request": "launch",
+            "mainClass": "M5",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M6",
+            "request": "launch",
+            "mainClass": "M6",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M7",
+            "request": "launch",
+            "mainClass": "M7",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M8",
+            "request": "launch",
+            "mainClass": "M8",
+            "projectName": "Maths DSA_73a94480"
+        },
+        {
+            "type": "java",
+            "name": "Launch M9",
+            "request": "launch",
+            "mainClass": "M9",
+            "projectName": "Maths DSA_73a94480"
+        }
+    ]
+}
